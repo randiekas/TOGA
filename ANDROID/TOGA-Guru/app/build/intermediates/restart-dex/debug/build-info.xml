@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="37105169294852"
+    token="-4686992254826239016"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="421" />
+    <task
+        name="instant-run-dex"
+        duration="20" />
+    <task
+        name="instant-run-transform"
+        duration="37" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="19379640884170"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="37038946217916"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="37105169294852"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
