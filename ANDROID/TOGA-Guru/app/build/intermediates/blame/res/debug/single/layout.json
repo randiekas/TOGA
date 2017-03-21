@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\view_custom.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_three.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\fragment_three.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\berita_sekolah_content.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\berita_sekolah_content.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_four.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\fragment_four.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_indicator_spinner.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\number_indicator_spinner.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grup_kelas.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\grup_kelas.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\berita_sekolah_detail.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\berita_sekolah_detail.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_custom_layout.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\gridview_custom_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\snackbar.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\snackbar.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\berita_sekolah.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\berita_sekolah.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nilai_siswa.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\nilai_siswa.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jadwal.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\jadwal.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tanya_jawab_list.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\tanya_jawab_list.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tes.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\tes.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\color_selector.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\color_selector.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_one.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\fragment_one.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_two.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\fragment_two.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\berita_sekolah_card.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\berita_sekolah_card.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tanya_jawab.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\layout\\tanya_jawab.xml"
+    }
+]

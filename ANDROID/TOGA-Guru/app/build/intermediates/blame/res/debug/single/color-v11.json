@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
