@@ -7,17 +7,26 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c9fb88cbc748f4dee0b41c184782fd2275f01a50">
+        sha1="8d4da5cbd4a16b09546dfc7e40162382e52ee555">
         <dex dex="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a75d5fe5d30af889a7bb0f96a216f91f0399e07d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\android\workspace\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jar="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_fb2e50ae2f46d186c89d799050dddae7db10ded3\classes.dex" />
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_eb08bf2d57bfc0c9028be15cf740ac60eafa76b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_8b8a815cd1d42b70e9be7d3501db6ca50cb6ef6e\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -52,8 +61,17 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="630eb735ff26fa3c2d4c6cbdccdf2440cf241a1b">
+        sha1="837fbb4844bda0a20a11deb6fe21668c3d1de017">
         <dex dex="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2e8302c3f1487403e7ea7d7a3709ce87ca78a836\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Randy Eka Setiawan\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_4e987bea9af570d42563a7377e48f962819c8e12\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -63,6 +81,24 @@
         revision="25.0.2"
         sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
         <dex dex="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_5bb7d1a5dd9fd889d3948854c2bd1ccb8f2e5011\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_a7553f7bbe07b3537d4f385ca259f8fa66acea76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\workspace\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_da2ec1646a45e0ebe64c1c26229794ecf6b0908b\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -84,21 +120,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jar="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
-        <dex dex="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.0_2136efed774cf6766a3fea2ccb125812e1acd84d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_befc551eff602a96105282c38746ca77c36a825c\classes.dex" />
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_d5d8c4c29f3c6fdff208186527efdc3d912f4e90\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -108,15 +135,6 @@
         revision="25.0.2"
         sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
         <dex dex="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_e544142f837741f7828eace1397ebe8ba48a099f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="D:\android\workspaces\ud851-Exercises-student\Lesson02-GitHub-Repo-Search\TOGA-Guru\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_fd604368e5aa9fd48cc0b18d93fc1cbbf00be49f\classes.dex" />
     </item>
     <item
         is-multidex="true"

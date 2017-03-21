@@ -8,19 +8,19 @@ package com.andexert.library;
 
 public final class R {
 	public static final class attr {
-		public static final int rv_alpha = 0x7f010077;
-		public static final int rv_centered = 0x7f01007c;
-		public static final int rv_color = 0x7f01007b;
-		public static final int rv_framerate = 0x7f010078;
-		public static final int rv_rippleDuration = 0x7f010079;
-		public static final int rv_ripplePadding = 0x7f01007e;
-		public static final int rv_type = 0x7f01007d;
-		public static final int rv_zoom = 0x7f01007f;
-		public static final int rv_zoomDuration = 0x7f01007a;
-		public static final int rv_zoomScale = 0x7f010080;
+		public static final int rv_alpha = 0x7f010082;
+		public static final int rv_centered = 0x7f010087;
+		public static final int rv_color = 0x7f010086;
+		public static final int rv_framerate = 0x7f010083;
+		public static final int rv_rippleDuration = 0x7f010084;
+		public static final int rv_ripplePadding = 0x7f010089;
+		public static final int rv_type = 0x7f010088;
+		public static final int rv_zoom = 0x7f01008a;
+		public static final int rv_zoomDuration = 0x7f010085;
+		public static final int rv_zoomScale = 0x7f01008b;
 	}
 	public static final class color {
-		public static final int rippelColor = 0x7f0b004a;
+		public static final int rippelColor = 0x7f0b0055;
 	}
 	public static final class id {
 		public static final int doubleRipple = 0x7f0c003b;
@@ -28,10 +28,10 @@ public final class R {
 		public static final int simpleRipple = 0x7f0c003d;
 	}
 	public static final class style {
-		public static final int AppTheme = 0x7f090085;
+		public static final int AppTheme = 0x7f090086;
 	}
 	public static final class styleable {
-		public static final int[] RippleView = { 0x7f010077, 0x7f010078, 0x7f010079, 0x7f01007a, 0x7f01007b, 0x7f01007c, 0x7f01007d, 0x7f01007e, 0x7f01007f, 0x7f010080 };
+		public static final int[] RippleView = { 0x7f010082, 0x7f010083, 0x7f010084, 0x7f010085, 0x7f010086, 0x7f010087, 0x7f010088, 0x7f010089, 0x7f01008a, 0x7f01008b };
 		public static final int RippleView_rv_alpha = 0;
 		public static final int RippleView_rv_centered = 5;
 		public static final int RippleView_rv_color = 4;

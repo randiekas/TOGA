@@ -20,6 +20,10 @@
         "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\drawable\\icon_news.png"
     },
     {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_check.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox_check.xml"
+    },
+    {
         "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_bg.xml",
         "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\drawable\\layout_bg.xml"
     },
@@ -44,16 +48,20 @@
         "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\drawable\\icon_chat.png"
     },
     {
-        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button.9.png",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button.9.png"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
         "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_help.png",
@@ -62,6 +70,14 @@
     {
         "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_right.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_rectangle.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button_rectangle.xml"
     },
     {
         "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
@@ -74,6 +90,10 @@
     {
         "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_3.png",
         "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\drawable\\image_3.png"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_float.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button_float.xml"
     },
     {
         "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
@@ -104,8 +124,24 @@
         "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_switch_ball_uncheck.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_switch_ball_uncheck.xml"
+    },
+    {
         "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_progress.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_progress.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_transparent.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_transparent.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_down.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\shadow_down.xml"
     },
     {
         "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_calendar.png",
@@ -122,6 +158,10 @@
     {
         "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_circular_border_imageview.xml",
         "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\drawable\\profile_circular_border_imageview.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_uncheck.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox_uncheck.xml"
     },
     {
         "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_plus.png",
@@ -164,6 +204,10 @@
         "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox.xml"
+    },
+    {
         "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_groups.png",
         "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\drawable\\icon_groups.png"
     },
@@ -176,12 +220,12 @@
         "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\src\\main\\res\\drawable\\profile.jpg"
     },
     {
-        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\drawable\\design_snackbar_background.xml"
-    },
-    {
         "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",

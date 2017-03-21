@@ -32,6 +32,21 @@
             android:name="com.sakolah.guru.toga_guru.BeritaSekolah"
             android:theme="@style/MyMaterialTheme" />
         <activity
+            android:name="com.sakolah.guru.toga_guru.BeritaSekolahDetail"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="com.sakolah.guru.toga_guru.Jadwal"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="com.sakolah.guru.toga_guru.TanyaJawab"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="com.sakolah.guru.toga_guru.GrupKelas"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="com.sakolah.guru.toga_guru.NilaiSiswa"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
             android:name="com.sakolah.guru.toga_guru.MainActivity"
             android:theme="@style/AppTheme" />
     </application>
