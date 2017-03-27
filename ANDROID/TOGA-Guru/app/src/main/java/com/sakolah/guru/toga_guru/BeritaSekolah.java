@@ -172,7 +172,7 @@ public class BeritaSekolah extends AppCompatActivity {
     }
 
     /**
-     * Converting dp to pixel
+     * Convert dp menjadi pixel
      */
     private int dpToPx(int dp) {
         Resources r = getResources();
