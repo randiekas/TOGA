@@ -104,4 +104,9 @@ public class TanyaJawab extends AppCompatActivity {
             }
         });
     }
+	  @Override
+   public void onDestroy() {
+       super.onDestroy();
+       if (mFloatingView != null) mWindowManager.removeView(mFloatingView);
+   }
 }
