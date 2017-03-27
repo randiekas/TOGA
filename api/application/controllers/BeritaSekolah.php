@@ -21,7 +21,7 @@ use Restserver\Libraries\REST_Controller;
  * @license         MIT
  * @link            https://github.com/chriskacerguis/codeigniter-restserver
  */
-class Account extends REST_Controller {
+class BeritaSekolah extends REST_Controller {
 
     function __construct()
     {
@@ -35,28 +35,16 @@ class Account extends REST_Controller {
         //$this->methods['users_delete']['limit'] = 50; // 50 requests per hour per user/key
     }
 
-    public function signin_get()
+    public function list_berita()
     {
         // Users from a data store e.g. database
-        $response["status"]= "success";
-        $response["message"]= "Login Berhasil";
-        $response["email"]= "";
-        $response["foto"]= "http://scientic.sakolah.com/assets/pegawai/197602192005071001/197602192005071001.jpg";
-        $response["gender"]= "L";
-        $response["id"]= "15";
-        $response["image"]= null;
-        $response["name"]= "Yudi Subekti";
-        $response["nomor_induk"]= "197602192005071001 datang";
-        $response["password"]= "bismilah";
-        $response["school"]= "smkn11bdg";
-        $response["tingkat"]= null;
-        $response["type"]= 2;
+        $response = $this->db->query("call berita('')");
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }
-    public function logout()
+    public function detail_berita($id)
     {
         // Users from a data store e.g. database
-        $response["status"]= "success";
+        $response = $this->db->query("call berita('{$id}')");
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }
 }

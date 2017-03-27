@@ -21,7 +21,7 @@ use Restserver\Libraries\REST_Controller;
  * @license         MIT
  * @link            https://github.com/chriskacerguis/codeigniter-restserver
  */
-class Account extends REST_Controller {
+class Jadwal extends REST_Controller {
 
     function __construct()
     {
@@ -35,28 +35,22 @@ class Account extends REST_Controller {
         //$this->methods['users_delete']['limit'] = 50; // 50 requests per hour per user/key
     }
 
-    public function signin_get()
+    public function list_jadwal($nip)
     {
         // Users from a data store e.g. database
-        $response["status"]= "success";
-        $response["message"]= "Login Berhasil";
-        $response["email"]= "";
-        $response["foto"]= "http://scientic.sakolah.com/assets/pegawai/197602192005071001/197602192005071001.jpg";
-        $response["gender"]= "L";
-        $response["id"]= "15";
-        $response["image"]= null;
-        $response["name"]= "Yudi Subekti";
-        $response["nomor_induk"]= "197602192005071001 datang";
-        $response["password"]= "bismilah";
-        $response["school"]= "smkn11bdg";
-        $response["tingkat"]= null;
-        $response["type"]= 2;
+        $response = $this->db->query("call jadwal('list','{$nip}')");
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }
-    public function logout()
+    public function list_absen($id_jadwal)
     {
         // Users from a data store e.g. database
-        $response["status"]= "success";
+        $response = $this->db->query("call jadwal('list_absen','{$id_absen}')");
+        $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
+    }
+    public function input_absen($id_jadwal)
+    {
+        // Users from a data store e.g. database
+        $response = $this->db->query("call jadwal('insert','{$id_absen}')");
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }
 }
