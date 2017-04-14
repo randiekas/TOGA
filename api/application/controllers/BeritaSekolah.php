@@ -34,11 +34,10 @@ class BeritaSekolah extends REST_Controller {
         //$this->methods['users_post']['limit'] = 100; // 100 requests per hour per user/key
         //$this->methods['users_delete']['limit'] = 50; // 50 requests per hour per user/key
     }
-
-    public function list_berita()
+    public function list_berita($page)
     {
         // Users from a data store e.g. database
-        $response = $this->db->query("call berita('')");
+        $response = $this->db->query("call berita('{$page}')");
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }
     public function detail_berita($id)

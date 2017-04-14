@@ -35,22 +35,34 @@ class Jadwal extends REST_Controller {
         //$this->methods['users_delete']['limit'] = 50; // 50 requests per hour per user/key
     }
 
-    public function list_jadwal($nip)
+    public function list_post()
     {
         // Users from a data store e.g. database
-        $response = $this->db->query("call jadwal('list','{$nip}')");
+        $nip = $this->post("nip");
+        $departemen = "SMK";
+        $infojadwal = "4";
+        
+        $response = $this->db->query("call jadwal('list','{$nip}','{$departemen}','{$infojadwal}')")->result();
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }
-    public function list_absen($id_jadwal)
+    public function list_absensi_header_post()
     {
-        // Users from a data store e.g. database
-        $response = $this->db->query("call jadwal('list_absen','{$id_absen}')");
+        $this->db->where("idkelas",$this->post("idkelas"));
+        $this->db->where("idsemester",$this->post("idsemester"));
+        $this->db->where("idpelajaran",$this->post("idpelajaran"));
+        $this->db->where("gurupelajaran",$this->post("nip"));
+        $this->db->where("tanggal",$this->post("tanggal"));
+        $response = $this->db->get('sync_presensi')->last_row();
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }
-    public function input_absen($id_jadwal)
-    {
-        // Users from a data store e.g. database
-        $response = $this->db->query("call jadwal('insert','{$id_absen}')");
-        $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
-    }
+    public function list_absensi_list_post()
+	{
+			$this->db->where("idkelas",$this->post("idkelas"));
+            $this->db->where("idsemester",$this->post("idsemester"));
+            $this->db->where("idpelajaran",$this->post("idpelajaran"));
+            $this->db->where("gurupelajaran",$this->post("nip"));
+            $this->db->where("tanggal",$this->post("tanggal"));
+			$response = $this->db->get('sync_presensisiswainput')->result();
+		    $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
+	}
 }
