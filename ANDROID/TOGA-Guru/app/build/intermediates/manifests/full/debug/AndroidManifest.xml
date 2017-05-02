@@ -18,7 +18,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.Dark" >
-        <activity android:name="com.sakolah.guru.toga_guru.LoginActivity" >
+        <activity android:name="com.sakolah.guru.toga_guru.activity.LoginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -26,25 +26,34 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.sakolah.guru.toga_guru.Dashboard"
+            android:name="com.sakolah.guru.toga_guru.activity.NilaiActivity"
             android:theme="@style/MyMaterialTheme" />
         <activity
-            android:name="com.sakolah.guru.toga_guru.BeritaSekolah"
+            android:name="com.sakolah.guru.toga_guru.activity.SiswaActivity"
             android:theme="@style/MyMaterialTheme" />
         <activity
-            android:name="com.sakolah.guru.toga_guru.BeritaSekolahDetail"
+            android:name="com.sakolah.guru.toga_guru.activity.Dashboard"
             android:theme="@style/MyMaterialTheme" />
         <activity
-            android:name="com.sakolah.guru.toga_guru.Jadwal"
+            android:name="com.sakolah.guru.toga_guru.activity.JadwalActivity"
             android:theme="@style/MyMaterialTheme" />
         <activity
-            android:name="com.sakolah.guru.toga_guru.TanyaJawab"
+            android:name="com.sakolah.guru.toga_guru.activity.BeritaDetailActivity"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="com.sakolah.guru.toga_guru.activity.BeritaActivity"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="com.sakolah.guru.toga_guru.activity.PertanyaanActivity"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="com.sakolah.guru.toga_guru.TanyaJawabDetail"
             android:theme="@style/MyMaterialTheme" />
         <activity
             android:name="com.sakolah.guru.toga_guru.GrupKelas"
             android:theme="@style/MyMaterialTheme" />
         <activity
-            android:name="com.sakolah.guru.toga_guru.NilaiSiswa"
+            android:name="com.sakolah.guru.toga_guru.activity.MengajarActivity"
             android:theme="@style/MyMaterialTheme" />
         <activity
             android:name="com.sakolah.guru.toga_guru.MainActivity"

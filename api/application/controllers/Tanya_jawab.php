@@ -94,12 +94,8 @@ class Tanya_jawab extends REST_Controller {
     public function delete_jawaban_post()
     {
         // Users from a data store e.g. database
-        $insert["id_profile"] = $this->session->userdata("id");
-        $insert["id_ask"] = $this->input->post("id_ask");
-        $insert["text"] = $this->input->post("text");
-        $insert["date"] = date("Y-m-d H:i:s");
-
-        $this->db->insert("ask_comments",$insert);
+        $this->db->where("id",$this->input->post("id_jawaban"));
+        $this->db->delete("demo1_idisi.ask_comments");
         $response["status"] = "success";
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }

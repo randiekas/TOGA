@@ -38,12 +38,18 @@ class Jadwal extends REST_Controller {
     public function list_post()
     {
         // Users from a data store e.g. database
-        $nip = $this->post("nip");
+        $nip = $this->post('nip');
         $departemen = "SMK";
         $infojadwal = "4";
         
-        $response = $this->db->query("call jadwal('list','{$nip}','{$departemen}','{$infojadwal}')")->result();
+        $response["results"] = $this->db->query("call jadwal('list','{$nip}','{$departemen}','{$infojadwal}')")->result();
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
+    }
+    public function list_get()
+    {
+        $result["results"] = $this->db->get("jadwal")->result_array();
+        $this->set_response($result, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
+
     }
     public function list_absensi_header_post()
     {

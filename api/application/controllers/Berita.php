@@ -34,17 +34,34 @@ class Berita extends REST_Controller {
         //$this->methods['users_post']['limit'] = 100; // 100 requests per hour per user/key
         //$this->methods['users_delete']['limit'] = 50; // 50 requests per hour per user/key
     }
-    public function list_post()
+    public function list_get()
     {
         // Users from a data store e.g. database
-        $page = $this->post("page")*10;
-        $response = $this->db->query("call berita_sekolah('list','{$page}')")->result();
-        $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
+        $result["results"] = $this->db->get("berita")->result_array();
+        $this->set_response($result, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }
     public function detail_post()
     {
         $id = $this->post("id");
         $response = $this->db->query("call berita_sekolah('detail','{$id}')")->last_row();
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
+    }
+    public function movies_get()
+    {
+        
+        $response = array();
+        $responses = array();
+        
+        $response["title"] = "Mad Max: Fury Road";
+        $response["genre"] = "Action & Adventure";
+        $response["title"] = "2015";
+        $responses[] = $response;
+        $response["title"] = "Mad Max: Fury Road";
+        $response["genre"] = "Action & Adventure";
+        $response["title"] = "2015";
+        $responses[] = $response;
+        
+        $result["result"] = $responses;
+        $this->set_response($result, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }
 }

@@ -37,16 +37,24 @@ class Kelas extends REST_Controller {
 
     public function list_post()
     {
-        // Users from a data store e.g. database
-        $this->db->where("id_profile",$this->post('id_profile'));
-        $response = $this->db->get("v_groups_members")->result();
         
-		$this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
+        // Users from a data store e.g. database
+        
+        $id_profile = $this->post('id_profile');
+        $this->db->where("id_profile",$id_profile);
+        
+        $response["results"] = $this->db->get("v_groups_members")->result();
+        $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
+        
+        /*
+        $response["results"] = $this->db->query("select * from ask_category")->result();
+        $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
+        */
     }    
     public function list_posting_post()
     {
         $this->db->where("id_group",$this->post('id_kelas'));
-        $response = $this->db->get("v_groups_posts")->result();
+        $response["results"] = $this->db->get("v_groups_posts")->result();
         
 		$this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code   
     }
@@ -69,7 +77,7 @@ class Kelas extends REST_Controller {
     {
         // Users from a data store e.g. database
         $this->db->where("id_group",$this->post("id_kelas"));
-        $response = $this->db->get("v_groups_chat")->result();
+        $response["results"] = $this->db->get("v_groups_chat")->result();
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }
     public function add_obrolan_post($nip,$id_kelas,$obrolan)
@@ -89,7 +97,7 @@ class Kelas extends REST_Controller {
         $id_group = $this->post("id_group");
         $id_profile = $this->post("id_profile");
         
-        $response = $this->db->query("call demo1_idisi.app_groups('members','{$id_profile}','{$id_group}')")->result();
+        $response["results"] = $this->db->query("call demo1_idisi.app_groups('members','{$id_profile}','{$id_group}')")->result();
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }
 }

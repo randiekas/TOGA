@@ -35,24 +35,24 @@ class Nilai extends REST_Controller {
         //$this->methods['users_delete']['limit'] = 50; // 50 requests per hour per user/key
     }
 
-    public function list_mengajar_post($nip)
+    public function list_mengajar_get()
     {
         // Users from a data store e.g. database
-        $response = $this->db->get('sync_pilih_kelas')->result();
+        $response["results"] = $this->db->get('sync_pilih_kelas')->result();
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }
-    public function list_siswa_post($nip)
+    public function list_siswa_post()
     {
         // Users from a data store e.g. database
         $this->db->select("nis,nama");
 		$this->db->where("idtahunajaran",$this->post("idtahunajaran"));
 		$this->db->where("idkelas",$this->post("idkelas"));
 		$this->db->order_by("nama","asc");
-		$response = $this->db->get('sync_v_siswa')->result();
+		$response["results"] = $this->db->get('sync_v_siswa')->result();
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }
     
-    public function list_nilai_post($id_kelas)
+    public function list_nilai_post()
     {
         // Users from a data store e.g. database
         $idkelas = $this->post("idkelas");
@@ -60,7 +60,7 @@ class Nilai extends REST_Controller {
 		$nis = $this->post("nis");
 		$nip = $this->post("nip");
         
-		$response = $this->db->query("call sync_nau_rapor_perguru('{$idkelas}','{$idsemester}','{$nis}','{$nip}')")->result();
+		$response["results"] = $this->db->query("call sync_nau_rapor_perguru('{$idkelas}','{$idsemester}','{$nis}','{$nip}')")->result();
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }
 }

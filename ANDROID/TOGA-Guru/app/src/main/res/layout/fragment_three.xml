@@ -15,6 +15,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:contentScrim="?attr/colorPrimary"
+            android:background="@color/colorPrimary"
             app:expandedTitleMarginStart="@dimen/expanded_toolbar_title_margin_start"
             app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
@@ -79,7 +80,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Expandable Layout provides an easy way to create a view called header with an expandable view. Views are external layout to allow a maximum of customization." />
+                        android:text="Scola adalah sistem informasi akademik yang lengkap dan terintegrasi, selengkapnya klik http://scola.id" />
                 </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
 
                 <Button
@@ -111,7 +112,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Android library for creating an expandable and collapsible to full screen view inside a viewgroup composition. Expandable Layout provides an easy way to create a view called header with an expandable view. Views are external layout to allow a maximum of customization." />
+                        android:text="Membantu memudahkan guru dalam mendapatkan informasi seperti : Jadwal Mengajar,Berita Sekolah,Tanya Jawab Siswa,Group Kelas,Nilai Raport Online Siswa" />
                 </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
 
                 <Button
@@ -142,8 +143,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="An android library that brings the expandable and collapsible layouts or views or widgets with various animation effect and material design color. You can include optional contents and use everywhere according to your demand.
-An android library that brings the expandable and collapsible layouts or views or widgets with various animation effect and material design color. You can include optional contents and use everywhere according to your demand" />
+                        android:text="Untuk login ke aplikasi ini juga sangat mudah, hanya menggunakan NIP dan Tanggal Lahir sebagai default username dan passwordnya" />
                 </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
 
 
@@ -175,8 +175,7 @@ An android library that brings the expandable and collapsible layouts or views o
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Implements the expand and collapse by sliding logic for a top or a bottom view in a two children view  or layout or any widgets composition.
-             Implements the expand and collapse by sliding logic for a top or a bottom view in a two children view  or layout or any widgets composition." />
+                        android:text="-" />
                 </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
 
 

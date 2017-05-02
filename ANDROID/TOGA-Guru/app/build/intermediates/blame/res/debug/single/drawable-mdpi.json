@@ -76,6 +76,10 @@
         "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
+        "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\star.png",
+        "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\star.png"
+    },
+    {
         "merged": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_longpressed_holo.9.png",
         "source": "D:\\android\\workspaces\\ud851-Exercises-student\\Lesson02-GitHub-Repo-Search\\TOGA-Guru\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
     },

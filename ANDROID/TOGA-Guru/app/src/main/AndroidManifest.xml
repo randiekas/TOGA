@@ -9,20 +9,23 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.Dark">
-        <activity android:name=".LoginActivity">
+        <activity android:name=".activity.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".Dashboard" android:theme="@style/MyMaterialTheme" />
-        <activity android:name=".BeritaSekolah" android:theme="@style/MyMaterialTheme" />
-        <activity android:name=".BeritaSekolahDetail" android:theme="@style/MyMaterialTheme" />
-        <activity android:name=".Jadwal" android:theme="@style/MyMaterialTheme" />
-        <activity android:name=".TanyaJawab" android:theme="@style/MyMaterialTheme" />
+        <activity android:name=".activity.NilaiActivity" android:theme="@style/MyMaterialTheme" />
+        <activity android:name=".activity.SiswaActivity" android:theme="@style/MyMaterialTheme" />
+        <activity android:name=".activity.Dashboard" android:theme="@style/MyMaterialTheme" />
+        <activity android:name=".activity.JadwalActivity" android:theme="@style/MyMaterialTheme" />
+        <activity android:name=".activity.BeritaDetailActivity" android:theme="@style/MyMaterialTheme" />
+        <activity android:name=".activity.BeritaActivity" android:theme="@style/MyMaterialTheme" />
+        <activity android:name=".activity.PertanyaanActivity" android:theme="@style/MyMaterialTheme" />
+        <activity android:name=".TanyaJawabDetail" android:theme="@style/MyMaterialTheme" />
         <activity android:name=".GrupKelas" android:theme="@style/MyMaterialTheme" />
-        <activity android:name=".NilaiSiswa" android:theme="@style/MyMaterialTheme" />
+        <activity android:name=".activity.MengajarActivity" android:theme="@style/MyMaterialTheme" />
         <activity android:name=".MainActivity" android:theme="@style/AppTheme" />
     </application>
 
