@@ -39,7 +39,7 @@ class Account extends REST_Controller {
     {
         // Users from a data store e.g. database
         $response["status"]= "success";
-        $response["message"]= "Login Berhasil";
+        $response["message"]= "selamat datang :D";
         $response["email"]= "";
         $response["foto"]= "http://scientic.sakolah.com/assets/pegawai/197602192005071001/197602192005071001.jpg";
         $response["gender"]= "L";
@@ -51,6 +51,37 @@ class Account extends REST_Controller {
         $response["school"]= "smkn11bdg";
         $response["tingkat"]= null;
         $response["type"]= 2;
+        $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
+    }
+    public function signin_post()
+    {
+        // Users from a data store e.g. database
+        $username = $this->post("username");
+        $password = $this->post("password");
+        
+        $response = $this->db->query("call account('signin','2','{$username}','{$password}');")->last_row();
+        $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
+    }
+    public function list_message_header($id_profile)
+    {
+        
+        $response = $this->db->query("call account('list_message_header','{$id_profile}','','')");
+        $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
+    }
+    public function list_message($id_message)
+    {
+        $response = $this->db->query("call account('list_message','{$id_message}','','')");
+        $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
+    }
+    public function add_message($id_message,$id_profile,$message)
+    {
+        $response = $this->db->query("call account('list_message','{$id_message}','{$id_profile}','{$message}')");
+        $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
+    }
+    public function logout()
+    {
+        // Users from a data store e.g. database
+        $response["status"]= "success";
         $this->set_response($response, REST_Controller::HTTP_OK); // OK (200) being the HTTP response code
     }
 }
